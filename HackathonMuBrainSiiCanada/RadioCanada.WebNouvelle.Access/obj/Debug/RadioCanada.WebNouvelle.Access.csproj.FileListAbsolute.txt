@@ -1,0 +1,9 @@
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\obj\Debug\RadioCanada.WebNouvelle.Access.csprojResolveAssemblyReference.cache
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\bin\Debug\RadioCanada.WebNouvelle.Access.dll
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\bin\Debug\RadioCanada.WebNouvelle.Access.pdb
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\bin\Debug\Newtonsoft.Json.xml
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\obj\Debug\RadioCanada.WebNouvelle.Access.dll
+C:\Users\r.ricaurte\Documents\Visual Studio 2015\Projects\HackathonMuBrainSiiCanada\RadioCanada.WebNouvelle.Access\obj\Debug\RadioCanada.WebNouvelle.Access.pdb
